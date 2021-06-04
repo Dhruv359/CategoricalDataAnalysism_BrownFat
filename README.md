@@ -8,3 +8,5 @@ Tidyverse, ggplot2 and broom are some examples of libraries used to find the bes
 fat based on multiple GOF tests, Hosmer-Lemeshow test, ROC curve etc. 
 
 Our final model is : BrownFat ~ Sex + Diabetes + Age + Ext_Temp +Two_Day_Temp + Three_Day_Temp + Weight + LBW
+
+This was an academic project in teams of 5. 
